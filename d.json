@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "小蔡专属",
+      "name": "【小蔡专属】",
       "type": 3,
       "api": "csp_DouDou",
       "indexs": 1,
@@ -339,32 +339,6 @@
       }
     },
     {
-      "key": "PanSso",
-      "name": "🐌盘他┃三盘",
-      "type": 3,
-      "api": "csp_PanSso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "米搜",
-      "name": "🦋米搜┃夸父",
-      "type": 3,
-      "api": "csp_MIPanSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
       "key": "push_agent",
       "name": "🛴手机┃推送",
       "type": 3,
@@ -456,7 +430,7 @@
     },
     {
       "key": "wx",
-      "name": "鸡你太美",
+      "name": "公众号：神秘的哥哥们",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -474,7 +448,7 @@
     },
     {
       "key": "cc",
-      "name": "世界和平",
+      "name": "请勿相信视频中广告",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
