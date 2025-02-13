@@ -430,7 +430,7 @@
     },
     {
       "key": "wx",
-      "name": "公众号：神秘的哥哥们",
+      "name": "万事如意",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -439,7 +439,7 @@
     },
     {
       "key": "fan",
-      "name": "导航 www.饭太硬.com",
+      "name": "事事顺利",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -448,7 +448,7 @@
     },
     {
       "key": "cc",
-      "name": "请勿相信视频中广告",
+      "name": "福寿安康",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
