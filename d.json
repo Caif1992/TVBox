@@ -377,38 +377,6 @@
       }
     },
     {
-      "key": "Bili",
-      "name": "🅱哔哔合集┃弹幕",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194e5a5f7474"
-      }
-    },
-    {
-      "key": "Biliych",
-      "name": "🅱哔哔演唱会┃弹幕",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194f4eb2747e"
-      }
-    },
-    {
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
@@ -488,7 +456,7 @@
     },
     {
       "key": "wx",
-      "name": "公众号：神秘的哥哥们",
+      "name": "鸡你太美",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -506,7 +474,7 @@
     },
     {
       "key": "cc",
-      "name": "请勿相信视频中广告",
+      "name": "世界和平",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
