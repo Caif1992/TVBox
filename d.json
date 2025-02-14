@@ -429,13 +429,11 @@
       }
     },
     {
-      "key": "wx",
-      "name": "万事如意",
+      "key": "csp_Qiyou",
+      "name": "🥝┃奇优┃影视",
       "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
+      "api": "csp_Qiyou",
+      "ext": "http://www.dyxz2.com/"
     },
     {
       "key": "fan",
